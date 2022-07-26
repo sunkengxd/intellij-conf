@@ -10,6 +10,10 @@
           <option name="url" value="git@bitbucket.org:smartdigit/mymonolithsalesandroid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/smartdigit/mymonolithsalesandroid/src/dev/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Work" />
