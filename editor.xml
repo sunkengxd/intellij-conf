@@ -17,12 +17,14 @@
         <entry key="ObjectiveC" value="true" />
         <entry key="XHTML" value="true" />
         <entry key="XML" value="true" />
-        <entry key="kotlin" value="false" />
+        <entry key="kotlin" value="true" />
         <entry key="yaml" value="true" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
 </application>

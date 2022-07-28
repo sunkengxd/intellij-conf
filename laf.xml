@@ -1,5 +1,7 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="com.github.catppuccin.jetbrains" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="VisualAssistDark" />
+    <preferred-light-laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="932c8cd1-2bb2-477e-a44c-b4f2abca351e" />
+    <preferred-dark-laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="23ee4207-419c-4a1a-beea-a12d80398d04" />
   </component>
 </application>
