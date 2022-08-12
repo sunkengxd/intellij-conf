@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'customerLoyalty'" />
-    <option name="defaultScopeName" value="Project 'customerLoyalty'" />
-    <option name="SEARCH_SCOPE" value="Project 'customerLoyalty'" />
+    <option name="customScope" value="Project 'Niki24-android-kotlin'" />
+    <option name="defaultScopeName" value="Project 'Niki24-android-kotlin'" />
+    <option name="SEARCH_SCOPE" value="Project 'Niki24-android-kotlin'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
