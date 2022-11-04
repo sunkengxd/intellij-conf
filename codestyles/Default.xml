@@ -122,13 +122,22 @@
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="ENUM_CONSTANTS_WRAP" value="5" />
     <option name="WRAP_ON_TYPING" value="0" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="6" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
