@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Niki24-android-kotlin'" />
-    <option name="defaultScopeName" value="Project 'Niki24-android-kotlin'" />
-    <option name="SEARCH_SCOPE" value="Project 'Niki24-android-kotlin'" />
+    <option name="customScope" value="Project 'MyMonolithChat'" />
+    <option name="defaultScopeName" value="Project 'MyMonolithChat'" />
+    <option name="SEARCH_SCOPE" value="Project 'MyMonolithChat'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
