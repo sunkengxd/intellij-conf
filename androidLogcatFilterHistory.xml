@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="zxc" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="zxc" />
         <option value="package:mine " />
+        <option value="zxc" />
         <option value="tag:zxc" />
         <option value="tag:photo " />
         <option value="package:min" />
