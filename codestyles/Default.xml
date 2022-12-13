@@ -145,6 +145,7 @@
     <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="ENUM_CONSTANTS_WRAP" value="5" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
