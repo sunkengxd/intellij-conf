@@ -15,6 +15,12 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="AndroidConnectDebuggerAction" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -48,12 +54,18 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="android.deploy.CodeSwap" is_action="true" action_type="-1" position="1">
+    <group value="Debug" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="Run/Debug" />
-      <path value="Android.InstantRunActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.InstantRunActions" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
