@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="View" />
         <option value="zxc" />
         <option value="tag:zxc" />
         <option value="tag:photo " />
