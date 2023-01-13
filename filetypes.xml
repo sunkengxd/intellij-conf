@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="sign" type="PLAIN_TEXT" />
       <mapping pattern="background_transition_border" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
