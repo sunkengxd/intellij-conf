@@ -5,6 +5,21 @@
   <component name="CodeInsightSettings">
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Right" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -28,7 +43,7 @@
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="kotlin.ranges.hints" />
+    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
