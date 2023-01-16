@@ -34,6 +34,7 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_ERROR_STRIPE_MARKERS" value="false" />
+    <option name="CREATE_CHANGELISTS_AUTOMATICALLY" value="true" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
