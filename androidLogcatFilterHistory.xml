@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="tag=:audio" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:audio" />
         <option value="tag=:log" />
         <option value="package:mine " />
         <option value="View" />
