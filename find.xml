@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Souls Assistant'" />
-    <option name="defaultScopeName" value="Project 'Souls Assistant'" />
-    <option name="SEARCH_SCOPE" value="Project 'Souls Assistant'" />
+    <option name="customScope" value="Project 'myMonolithSales'" />
+    <option name="defaultScopeName" value="Project 'myMonolithSales'" />
+    <option name="SEARCH_SCOPE" value="Project 'myMonolithSales'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
