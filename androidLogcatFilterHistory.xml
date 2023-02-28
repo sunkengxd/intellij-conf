@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ViewModel" />
+    <option name="mostRecentlyUsed" value="convo" />
     <option name="nonFavorites">
       <list>
+        <option value="convo" />
         <option value="tag:ViewModel" />
         <option value="tag=:audio" />
         <option value="tag=:log" />
