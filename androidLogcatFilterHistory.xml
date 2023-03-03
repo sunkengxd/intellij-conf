@@ -5,9 +5,13 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:login" />
+    <option name="mostRecentlyUsed" value="tag:login:authCheck " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:login:authCheck " />
+        <option value="tag:login:register" />
+        <option value="tag:login:login  " />
+        <option value="tag:login:entitiesPricelines  " />
         <option value="tag:login" />
         <option value="tag=:login" />
         <option value="convo" />
