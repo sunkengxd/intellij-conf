@@ -5,9 +5,13 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:login:authCheck " />
+    <option name="mostRecentlyUsed" value="tag=:login:warehouses    " />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:login:warehouses    " />
+        <option value="tag:login:warehousesAndPrices   " />
+        <option value="tag:login:priceLineIds  " />
+        <option value="tag:login:entitiesPricelines " />
         <option value="tag:login:authCheck " />
         <option value="tag:login:register" />
         <option value="tag:login:login  " />
@@ -24,7 +28,6 @@
         <option value="tag:zxc" />
         <option value="tag:photo " />
         <option value="package:min" />
-        <option value="photo" />
       </list>
     </option>
   </component>
