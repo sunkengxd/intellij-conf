@@ -9,6 +9,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:parser" />
+        <option value="parser" />
         <option value="tag:wtf" />
         <option value="wtf" />
         <option value="tag=:login:warehouses    " />
@@ -27,7 +28,6 @@
         <option value="tag=:log" />
         <option value="package:mine " />
         <option value="View" />
-        <option value="zxc" />
       </list>
     </option>
   </component>
