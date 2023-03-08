@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="wtf" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:wtf" />
         <option value="wtf" />
         <option value="tag=:login:warehouses    " />
         <option value="tag:login:warehousesAndPrices   " />
@@ -27,7 +28,6 @@
         <option value="View" />
         <option value="zxc" />
         <option value="tag:zxc" />
-        <option value="tag:photo " />
       </list>
     </option>
   </component>
