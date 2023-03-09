@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="debts" />
     <option name="nonFavorites">
       <list>
+        <option value="debts" />
         <option value="tag:network " />
         <option value="tag:parser" />
         <option value="parser" />
@@ -27,7 +28,6 @@
         <option value="tag:ViewModel" />
         <option value="tag=:audio" />
         <option value="tag=:log" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
