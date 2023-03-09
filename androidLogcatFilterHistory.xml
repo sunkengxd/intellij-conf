@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="date" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="debt" />
         <option value="date" />
         <option value="debts calc" />
         <option value="debts" />
@@ -27,7 +28,6 @@
         <option value="tag:login" />
         <option value="tag=:login" />
         <option value="convo" />
-        <option value="tag:ViewModel" />
       </list>
     </option>
   </component>
