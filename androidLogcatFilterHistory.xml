@@ -8,6 +8,7 @@
     <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:completeItems " />
         <option value="pendings" />
         <option value="debt" />
         <option value="date" />
@@ -27,7 +28,6 @@
         <option value="tag:login:login  " />
         <option value="tag:login:entitiesPricelines  " />
         <option value="tag:login" />
-        <option value="tag=:login" />
       </list>
     </option>
   </component>
