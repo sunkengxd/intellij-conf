@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="DashBoard" />
     <option name="nonFavorites">
       <list>
+        <option value="DashBoard" />
         <option value="tag=:sync" />
         <option value="tag=:completeItems " />
         <option value="pendings" />
@@ -27,7 +28,6 @@
         <option value="tag:login:authCheck " />
         <option value="tag:login:register" />
         <option value="tag:login:login  " />
-        <option value="tag:login:entitiesPricelines  " />
       </list>
     </option>
   </component>
