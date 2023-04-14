@@ -1,0 +1,10 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="RoomSql" injector-id="kotlin">
+      <display-name>Room Query annotations</display-name>
+      <single-file value="false" />
+      <place><![CDATA[kotlinParameter().ofFunction(0, kotlinFunction().withName("DatabaseView").definedInClass("androidx.room.DatabaseView"))]]></place>
+      <place><![CDATA[kotlinParameter().ofFunction(0, kotlinFunction().withName("Query").definedInClass("androidx.room.Query"))]]></place>
+    </injection>
+  </component>
+</application>
