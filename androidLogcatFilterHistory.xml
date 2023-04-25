@@ -5,8 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag=:icons" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:icons" />
         <option value="package:mine " />
         <option value="package:mine  tag=:address" />
         <option value="message=:hi?" />
@@ -26,7 +28,6 @@
         <option value="tag:wtf" />
         <option value="wtf" />
         <option value="tag=:login:warehouses    " />
-        <option value="tag:login:warehousesAndPrices   " />
       </list>
     </option>
   </component>
