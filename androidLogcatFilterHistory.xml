@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag=:sync " />
+    <option name="mostRecentlyUsed" value="package:mine tag=:items " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:items " />
         <option value="package:mine tag=:sync " />
         <option value="package:mine tag=:icons " />
         <option value="package:mine tag" />
@@ -27,7 +28,6 @@
         <option value="date" />
         <option value="debts calc" />
         <option value="debts" />
-        <option value="tag:network " />
       </list>
     </option>
   </component>
