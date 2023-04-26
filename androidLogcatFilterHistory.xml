@@ -5,9 +5,11 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag=:icons " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:icons " />
+        <option value="package:mine tag" />
         <option value="package:mine tag=:progress" />
         <option value="package:mine tag=:progresss" />
         <option value="package:mine tag=:icons" />
@@ -26,8 +28,6 @@
         <option value="debts" />
         <option value="tag:network " />
         <option value="tag:parser" />
-        <option value="parser" />
-        <option value="tag:wtf" />
       </list>
     </option>
   </component>
