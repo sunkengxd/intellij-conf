@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:Sync" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine tag:Sync" />
         <option value="package:mine tag=:sync" />
         <option value="package:mine " />
@@ -27,7 +28,6 @@
         <option value="tag=:completeItems " />
         <option value="pendings" />
         <option value="debt" />
-        <option value="date" />
       </list>
     </option>
   </component>
