@@ -8,11 +8,11 @@
     <option name="mostRecentlyUsed" value="package:mine tag=:uploads" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine tag=:uploads" />
         <option value="package:mine " />
         <option value="package:mine tag:images" />
         <option value="package:mine tag=images" />
-        <option value="package:mine level:error " />
         <option value="package:mine tag:Sync" />
         <option value="package:mine tag=:sync" />
         <option value="package:mine tag=:items " />
