@@ -5,10 +5,11 @@
         <option value="package:mine" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine level:error " />
+        <option value="package:mine " />
         <option value="package:mine tag=:uploads" />
         <option value="package:mine tag:images" />
         <option value="package:mine tag=images" />
