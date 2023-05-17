@@ -5,8 +5,11 @@
         <option value="package:mine" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag=:Top" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:Top" />
+        <option value="package:mine tag=:" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine tag=:uploads" />
@@ -25,8 +28,6 @@
         <option value="message=:hi?" />
         <option value="message:hi" />
         <option value="Dashboard" />
-        <option value="DashBoard" />
-        <option value="tag=:sync" />
       </list>
     </option>
   </component>
