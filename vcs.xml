@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/Ruskistiuc/android-example/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yoonusc/Android-POS-.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Work" />
