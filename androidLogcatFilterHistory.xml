@@ -5,11 +5,12 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine 20" />
+    <option name="mostRecentlyUsed" value="package:com.smartdigit.meilisearchtest " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine 20" />
         <option value="package:com.smartdigit.meilisearchtest " />
+        <option value="package:com.smartdigit.meilisearchtest tag=" />
+        <option value="package:mine 20" />
         <option value="package:com.smartdigit.meilisearchtest tag=:page" />
         <option value="package:mine " />
         <option value="package:mine tag~:Sync" />
@@ -27,7 +28,6 @@
         <option value="package:mine tag=:sync " />
         <option value="package:mine tag=:icons " />
         <option value="package:mine tag" />
-        <option value="package:mine tag=:progress" />
       </list>
     </option>
   </component>
