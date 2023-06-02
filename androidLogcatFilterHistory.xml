@@ -5,8 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag=:new" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:new" />
         <option value="package:mine " />
         <option value="package:mine tag=:message" />
         <option value="package:mine tag=:req" />
@@ -26,7 +28,6 @@
         <option value="package:mine tag=:uploads" />
         <option value="package:mine tag:images" />
         <option value="package:mine tag=images" />
-        <option value="package:mine tag:Sync" />
       </list>
     </option>
   </component>
