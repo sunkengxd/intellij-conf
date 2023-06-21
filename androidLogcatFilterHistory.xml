@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag=:messages" />
+    <option name="mostRecentlyUsed" value="package:mine tag=:messages " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:messages " />
         <option value="package:mine tag=:messages" />
         <option value="package:mine tag=:amount " />
         <option value="package:mine tag=:pdf " />
@@ -27,7 +28,6 @@
         <option value="package:mine tag=:alternative" />
         <option value="package:mine tag=:Top" />
         <option value="package:mine tag=:" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
