@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.smartdigit.meilisearchtest tag=:nav " />
+    <option name="mostRecentlyUsed" value="package:com.smartdigit.meilisearchtest tag=:state " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.smartdigit.meilisearchtest tag=:state " />
         <option value="package:com.smartdigit.meilisearchtest tag=:nav " />
         <option value="package:com.smartdigit.meilisearchtest " />
         <option value="package:com.smartdigit.meilisearchtest tag=:screen" />
@@ -27,7 +28,6 @@
         <option value="package:com.smartdigit.meilisearchtest tag=:page" />
         <option value="package:mine tag~:Sync" />
         <option value="package:mine tag=:docs" />
-        <option value="package:mine tag=:alternative" />
       </list>
     </option>
   </component>
