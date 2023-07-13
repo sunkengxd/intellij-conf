@@ -5,9 +5,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:x y z  " />
+    <option name="mostRecentlyUsed" value="tag=:shake " />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:shake " />
         <option value="tag:x y z  " />
         <option value="package:mine tag=:doc " />
         <option value="package:mine " />
@@ -27,7 +28,6 @@
         <option value="package:mine tag=:req" />
         <option value="package:mine tag:=req" />
         <option value="package:mine tag=req" />
-        <option value="package:com.smartdigit.meilisearchtest tag=req" />
       </list>
     </option>
   </component>
