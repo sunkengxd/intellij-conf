@@ -5,14 +5,13 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag=:search " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag=:search " />
         <option value="tag=:shake " />
         <option value="tag:x y z  " />
         <option value="package:mine tag=:doc " />
-        <option value="package:mine " />
         <option value="package:mine tag:=names" />
         <option value="package:mine tag:=search" />
         <option value="package:com.smartdigit.meilisearchtest  " />
